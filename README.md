@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1Spinne
 - 👀 I’m interested in programming Websites
-- 🌱 I’m currently learning Vue.js and Nuxt.js
+- 🌱 I’m currently learning Minecraft Commands
 - 💞️ I’m looking to collaborate on Cryptic-Game Website
 
 <!---
