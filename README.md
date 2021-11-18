@@ -1,3 +1,5 @@
+![Metrics](https://github.com/my-github-user/1Spinne/blob/main/github-metrics.svg)
+
 - 👋 Hi, I’m @1Spinne
 - 👀 I’m interested in programming Websites
 - 🌱 I’m currently learning Minecraft Commands
