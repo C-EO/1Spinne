@@ -1,4 +1,4 @@
-![Metrics](https://github.com/my-github-user/1Spinne/blob/main/github-metrics.svg)
+![Metrics](https://github.com/my-github-user/1Spinne/1Spinne/github-metrics.svg)
 
 - 👋 Hi, I’m @1Spinne
 - 👀 I’m interested in programming Websites
