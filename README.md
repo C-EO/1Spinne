@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/1Spinne)
+
 - 👋 Hi, I’m @1Spinne
 - 👀 I’m interested in programming Websites
 - 🌱 I’m currently learning Minecraft Commands
