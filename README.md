@@ -1,7 +1,4 @@
-![1Spinne's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Spinne&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Spinne&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
-
+![Metrics](github-metrics.svg)
 
 - 👋 Hi, I’m @1Spinne
 - 👀 I’m interested in programming Websites
