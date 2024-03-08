@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheBlckbird&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats-blue-zeta.vercel.app?user=TheBlckbird&theme=transparent&hide_border=true&exclude_days=Sun" alt="GitHub Streak" />
 </p>
 
 I'm a hobby developer mainly doing fullstack development with [Laravel](https://laravel.com/), [Inertia](https://inertiajs.com/) and [Svelte](https://svelte.dev).  
